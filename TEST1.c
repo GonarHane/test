@@ -5,5 +5,6 @@ int main(){
     scanf("%d %d",&n,&p);
     s=n+p;
     printf("la somme est= %d ",s);
+    printf("DFGGH");
     
 }
